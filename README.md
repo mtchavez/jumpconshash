@@ -1,5 +1,10 @@
 # Jump Consistent Hash
-[![Build Status](https://drone.io/github.com/mtchavez/jumpconshash/status.png)](https://drone.io/github.com/mtchavez/jumpconshash/latest)
+
+[![Build Status](https://travis-ci.org/mtchavez/jumpconshash.svg)](https://travis-ci.org/mtchavez/jumpconshash)
+[![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/mtchavez/jumpconshash)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mtchavez/jumpconshash)](https://goreportcard.com/report/github.com/mtchavez/jumpconshash)
+[![Maintainability](https://api.codeclimate.com/v1/badges/6934d64e8d7f8b85bf47/maintainability)](https://codeclimate.com/github/mtchavez/jumpconshash/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/6934d64e8d7f8b85bf47/test_coverage)](https://codeclimate.com/github/mtchavez/jumpconshash/test_coverage)
 
 Jump consistent hash implementation in Go.
 
