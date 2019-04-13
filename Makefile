@@ -8,7 +8,7 @@ default: test
 
 deps:
 	@go get -u -v $(GOPKGS)
-	@dep ensure
+	@if [ -z $(GO111MODULE) ]; then dep ensure; else go build; fi
 
 lint:
 	@echo "[Lint] running golint"
